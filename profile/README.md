@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://startedcoding.com"><strong>🌐 Website</strong></a> •
+  <a href="https://startedcoding.com"><strong>🌐 Website</strong></a> 
 </p>
 
 ---
