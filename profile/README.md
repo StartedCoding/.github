@@ -13,8 +13,6 @@
 
 <p align="center">
   <a href="https://startedcoding.com"><strong>🌐 Website</strong></a> •
-  <a href="https://github.com/StartedCoding"><strong>🚀 Projects</strong></a> •
-  <a href="https://github.com/StartedCoding-org"><strong>🧠 Learn More</strong></a>
 </p>
 
 ---
