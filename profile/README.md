@@ -1,18 +1,17 @@
 <p align="center">
-  <img 
   <img src="./banner1.png" alt="StartedCoding Banner" width="100%" />
 </p>
 
 
 
-<h1 align="center">StartedCoding</h1>
+<h1 align="center">StartedCoding</h1> 
 
 <p align="center">
   <em>Where curiosity meets creation - beyond just code.</em>
 </p>
 
 <p align="center">
-  <a href="https://startedcoding.com"><strong>🌐 Website</strong></a> 
+  <a href="https://startedcoding.com"><strong> <img src="./Web.png" alt="web" width="20%" title="website link" /></strong></a> 
 </p>
 
 ---
